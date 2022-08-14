@@ -1,0 +1,26 @@
+{
+  "name": "test_purrweb_salt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunken38/Test_purrweb_salt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dunken38/Test_purrweb_salt/issues"
+  },
+  "homepage": "https://github.com/dunken38/Test_purrweb_salt#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "global": "^4.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
